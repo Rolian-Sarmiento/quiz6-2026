@@ -1,6 +1,3 @@
-A great README.md is the "front door" of your project. Since you have a Django backend and a React frontend, it’s important to show how they connect (Ports 8000 and 3000) and how the environment variables should be set up.
-
-Here is a comprehensive README designed for your ProClean project.
 🧼 ProClean: AI-Powered Cleaning Service Marketplace
 
 ProClean is a full-stack web application designed for booking professional cleaning services. It features a Django REST Framework backend, a React frontend, PayPal Sandbox payment integration, and a Gemini AI Chatbot to assist users.
